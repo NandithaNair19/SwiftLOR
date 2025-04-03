@@ -5,15 +5,15 @@ SwiftLOR is a web-based Letter of Recommendation (LOR) management system designe
 
 ✅ Student Portal
 
-Students can log in and fill out a request form for an LOR.
-The request is automatically sent to the assigned faculty via email.
-Once approved, students can download the LOR as a PDF.
+-Students can log in and fill out a request form for an LOR.<br>
+-The request is automatically sent to the assigned faculty via email.<br>
+-Once approved, students can download the LOR as a PDF.
 
 ✅ Faculty Portal
 
-Faculty members can log in and view pending LOR requests.
-They can either write a custom LOR or enable an auto-generated one.
-The system updates the LOR in the database after submission.
+-Faculty members can log in and view pending LOR requests.<br>
+-They can either write a custom LOR or enable an auto-generated one.<br>
+-The system updates the LOR in the database after submission.
 
 
 ## 🛠️ Tech Stack
@@ -27,7 +27,7 @@ The system updates the LOR in the database after submission.
 
 
 ## 🎓 Student Actions
-Log in and request an LOR → Sends request to faculty.
+Log in and request an LOR → Sends request to faculty.<br>
 Once approved, download as a PDF.
 
 ## 🚀 Prerequisites
@@ -47,12 +47,12 @@ If they return version numbers, you're good to go!
 ## 📂 Project Setup & Running the Environment:  
 
 1️⃣ Clone the Repository  
-Open a terminal and run:  
+-Open a terminal and run:  
 git clone https://github.com/your-username/SwiftLOR.git  
 cd SwiftLOR  
 
 2️⃣ Install Dependencies  
-Inside the project folder, install required Node.js packages:  
+-Inside the project folder, install required Node.js packages:  
 npm install  
 
 3️⃣ Start the Server  
