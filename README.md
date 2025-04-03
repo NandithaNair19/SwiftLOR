@@ -39,8 +39,8 @@ Before running the project, make sure you have the following installed:
 
 To check if Node.js and npm are installed, run the following commands in the terminal:  
   
-node -v  
-npm -v  
+`node -v ` 
+`npm -v ` 
 
 If they return version numbers, you're good to go!  
 
@@ -48,19 +48,19 @@ If they return version numbers, you're good to go!
 
 1️⃣ Clone the Repository  
 -Open a terminal and run:  
-git clone https://github.com/your-username/SwiftLOR.git  
-cd SwiftLOR  
+`git clone https://github.com/your-username/SwiftLOR.git ` 
+`cd SwiftLOR`  
 
 2️⃣ Install Dependencies  
 -Inside the project folder, install required Node.js packages:  
-npm install  
+`npm install` 
 
 3️⃣ Start the Server  
 Run the following command to start the Node.js server:  
-npm start  
+`npm start`  
 
 or for development mode (auto-restarts on changes):  
-npm run dev  
+`npm run dev`  
 
 Once running, open your browser and go to:  
 http://localhost:5000/  
