@@ -16,7 +16,7 @@ The system updates the LOR in the database after submission.
 
 
 🛠️ Tech Stack
- _____________________________________________
+
 |  Component	|  Technology Used            |
 |---------------|-----------------------------|
 |   Frontend    | HTML, CSS, JavaScript       |
@@ -24,13 +24,6 @@ The system updates the LOR in the database after submission.
 |  Database	| PostgreSQL                  |
 | PDF Generation| jsPDF                       |
 
-
-
-          
-	         
-           
-	         
-    
 
 🎓 Student Actions
 Log in and request an LOR → Sends request to faculty.
@@ -40,8 +33,8 @@ Once approved, download as a PDF.
 
 Before running the project, make sure you have the following installed:
 
-✅ Node.js (Download and install)
-✅ npm (Comes with Node.js)
+|✅ Node.js (Download and install)|
+|✅ npm (Comes with Node.js)|
 
 To check if Node.js and npm are installed, run the following commands in the terminal:
 
