@@ -48,7 +48,7 @@ If they return version numbers, you're good to go!
 
 1️⃣ Clone the Repository  
 -Open a terminal and run:  
-`git clone https://github.com/your-username/SwiftLOR.git ` 
+`git clone https://github.com/your-username/SwiftLOR.git `<br>
 `cd SwiftLOR`  
 
 2️⃣ Install Dependencies  
