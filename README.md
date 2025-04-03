@@ -16,15 +16,13 @@ The system updates the LOR in the database after submission.
 
 
 🛠️ Tech Stack
- __________________________________
-|  Component	|  Technology Used |
-|---------------|------------------|
-|   Frontend    | HTML, CSS,       |
-|               | JavaScript       |
-|  Backend	| Node.js,         |
-|               | Express.js       |
-|  Database	| PostgreSQL       |
-| PDF Generation| jsPDF            |
+ _____________________________________________
+|  Component	|  Technology Used            |
+|---------------|-----------------------------|
+|   Frontend    | HTML, CSS, JavaScript       |
+|  Backend	| Node.js,Express.js          |
+|  Database	| PostgreSQL                  |
+| PDF Generation| jsPDF                       |
 
 
 
