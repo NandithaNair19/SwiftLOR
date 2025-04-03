@@ -16,12 +16,27 @@ The system updates the LOR in the database after submission.
 
 
 🛠️ Tech Stack
+ __________________________________
+|  Component	  |  Technology Used |
+|---------------|------------------|
+|   Frontend    | HTML, CSS,       |
+|               | JavaScript       |
+|_______________|__________________|
+|  Backend	    | Node.js,         |
+|               | Express.js       |
+|_______________|__________________|
+|  Database	    |  PostgreSQL      |
+|_______________|__________________|
+| PDF Generation|  jsPDF           |
+|_______________|__________________|
 
-Component	          Technology Used
-Frontend	          HTML, CSS, JavaScript
-Backend	            Node.js, Express.js
-Database	          PostgreSQL
-PDF Generation	    jsPDF
+
+
+          
+	         
+           
+	         
+    
 
 🎓 Student Actions
 Log in and request an LOR → Sends request to faculty.
