@@ -1,5 +1,4 @@
-SwiftLOR-Letter of Recommendation Management System
-is a web-based Letter of Recommendation (LOR) management system designed for students and faculty.This platform streamlines the process of requesting, writing,approving,and downloading recommendation letters.
+SwiftLOR is a web-based Letter of Recommendation (LOR) management system designed for students and faculty.This platform streamlines the process of requesting, writing,approving,and downloading recommendation letters.
 
 📌 Features
 
