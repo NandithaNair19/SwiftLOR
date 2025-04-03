@@ -1,6 +1,6 @@
-SwiftLOR is a web-based Letter of Recommendation (LOR) management system designed for students and faculty.This platform streamlines the process of requesting, writing,approving,and downloading recommendation letters.
+##SwiftLOR is a web-based Letter of Recommendation (LOR) management system designed for students and faculty.This platform streamlines the process of requesting, writing,approving,and downloading recommendation letters.
 
-📌 Features
+##📌 Features
 
 ✅ Student Portal
 
@@ -15,7 +15,7 @@ They can either write a custom LOR or enable an auto-generated one.
 The system updates the LOR in the database after submission.
 
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 |  Component	  |  Technology Used          |
 |---------------|---------------------------|
@@ -25,11 +25,11 @@ The system updates the LOR in the database after submission.
 | PDF Generation| jsPDF                     |
 
 
-🎓 Student Actions
+##🎓 Student Actions
 Log in and request an LOR → Sends request to faculty.
 Once approved, download as a PDF.
 
-🚀 Prerequisites
+##🚀 Prerequisites
 
 Before running the project, make sure you have the following installed:
 
